@@ -1,12 +1,12 @@
-# serviapp-eliminacioncuenta
-# Eliminar Cuenta - ServiApp
+# Laburix-eliminacioncuenta
+# Eliminar Cuenta - Laburix
 
-**Desarrollador:** ServiApp  
+**Desarrollador:** UriCodex  
 **Última actualización:** Diciembre 2024
 
 ---
 
-## 📱 ServiApp respeta tu privacidad
+## 📱 Laburix respeta tu privacidad
 
 **ServiApp** respeta tu privacidad y te permite eliminar tu cuenta y todos tus datos personales en cualquier momento.
 
@@ -14,10 +14,10 @@
 
 ## ¿Cómo Solicitar la Eliminación de tu Cuenta?
 
-Puedes eliminar tu cuenta y todos tus datos asociados directamente desde la aplicación **ServiApp** siguiendo estos pasos:
+Puedes eliminar tu cuenta y todos tus datos asociados directamente desde la aplicación **Laburix** siguiendo estos pasos:
 
 ### Paso 1:
-Abre la aplicación **ServiApp** en tu dispositivo Android.
+Abre la aplicación **Laburix** en tu dispositivo Android.
 
 ### Paso 2:
 Inicia sesión con tu cuenta si no lo has hecho ya.
@@ -40,7 +40,7 @@ Confirma nuevamente en la segunda pantalla de confirmación. Una vez confirmado,
 
 ## ¿Qué Datos se Eliminan?
 
-Cuando eliminas tu cuenta en ServiApp, se eliminan permanentemente los siguientes datos:
+Cuando eliminas tu cuenta en Laburix, se eliminan permanentemente los siguientes datos:
 
 ### Datos de Usuario:
 - Nombre completo
@@ -120,7 +120,7 @@ Si prefieres no usar la aplicación o tienes problemas para acceder a tu cuenta,
 
 ### 📧 Contacto para Eliminación de Cuenta
 
-**Email:** soporte@serviapp.com  
+**Email:** urieltkdev@gmail.com  
 **Asunto:** "Solicitud de Eliminación de Cuenta"
 
 **Información requerida:**
@@ -151,7 +151,7 @@ Además de eliminar tu cuenta, tienes derecho a:
 - **Portabilidad:** Obtener tus datos en formato estructurado
 - **Oposición:** Oponerte al procesamiento de tus datos
 
-Para ejercer estos derechos, contacta a soporte@serviapp.com
+Para ejercer estos derechos, contacta a urieltkdev@gmail.com
 
 ---
 
@@ -175,7 +175,7 @@ Puedes editar o eliminar datos individuales (como servicios publicados) desde la
 
 ---
 
-**ServiApp** - Conectando usuarios con prestadores de servicios
+**Laburix** - Conectando usuarios con prestadores de servicios
 
 Para más información, visita nuestra Política de Privacidad
 
